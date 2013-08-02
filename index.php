@@ -7,6 +7,7 @@
     <body>
         <?php
          echo "new project";
+        echo "mister add";
         ?>
     </body>
 </html>
