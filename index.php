@@ -8,8 +8,9 @@
         <?php
          echo "new project";
         echo "mister add";
-        echo "n add";
+        echo "neverMind add";
         echo "mister add 2";
+        echo "never Mind add 2";
         ?>
     </body>
 </html>
